@@ -375,7 +375,7 @@ ul.sub-menu {
   position: absolute;
   top: 50px;
   left: 0;
-  width: 450px;
+  /* width: 450px; */
 }
 
 .animate-in .slide-text {
