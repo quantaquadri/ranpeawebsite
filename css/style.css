@@ -385,7 +385,7 @@ ul.sub-menu {
 
 #home-slider .slider-house {
   position: absolute;
-  right: 0;
+  right: 200px;
   bottom: 0;
 }
 
@@ -462,7 +462,7 @@ ul.sub-menu {
 
 #home-slider .slider-cycle {
   position: absolute;
-  right: 500px;
+  right: 380px;
   bottom: 0;
 }
 
